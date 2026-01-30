@@ -23,3 +23,6 @@ Thumbs.db
 # Logs
 *.log
 
+*.kicad_sch.lck
+*.lck
+
